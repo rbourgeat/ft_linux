@@ -6,7 +6,7 @@
 Open it with Virtual Box ! [(TUTO)](https://docs.oracle.com/cd/E26217_01/E35193/html/qs-import-vm.html)
 
 ## 📚 LFS BOOK
-I followed th LFS 11.1 (with sysv) ! [(link)](https://www.linuxfromscratch.org/lfs/view/11.1/)
+I followed the Linux from Scratch 11.1 (with sysv) ! [(link)](https://www.linuxfromscratch.org/lfs/view/11.1/)
 
 ## ⭐️ BONUS
 - **wget**
